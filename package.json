@@ -1,0 +1,19 @@
+{
+  "name": "orenji",
+  "version": "0.1.0",
+  "description": "Orenji Web App Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orenjijs/orenji.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orenjijs/orenji/issues"
+  },
+  "homepage": "https://github.com/orenjijs/orenji#readme"
+}

@@ -7,3 +7,7 @@ Minimalistic framework for Node.js to make web applications and APIs
 ```
 $ npm install orengi
 ```
+
+## Community
+
+- [Discord Chat](https://discord.gg/UfRbWj)

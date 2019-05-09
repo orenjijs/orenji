@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/orenjijs/orenji.git"
   },
-  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/orenjijs/orenji/issues"

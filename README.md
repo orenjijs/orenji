@@ -1,6 +1,6 @@
 # Orengi
 
-Minimalistic framework for Node.js to make web applications and APIs
+Secure, Minimalistic and least painful framework for Node.js to make web applications and APIs
 
 ## Installation
 

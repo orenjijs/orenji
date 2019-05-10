@@ -2,9 +2,9 @@
   "name": "orenji",
   "version": "0.1.0",
   "description": "Orenji Web App Framework",
-  "main": "index.js",
+  "main": "lib/orenji.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,15 @@
   "bugs": {
     "url": "https://github.com/orenjijs/orenji/issues"
   },
-  "homepage": "https://github.com/orenjijs/orenji#readme"
+  "homepage": "https://github.com/orenjijs/orenji#readme",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "supertest": "^4.0.2"
+  },
+  "jest": {
+    "testMatch": [
+      "**/test/**/*.js"
+    ],
+    "testEnvironment": "node"
+  }
 }

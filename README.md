@@ -5,7 +5,7 @@ Secure, Minimalistic and least painful framework for Node.js to make web applica
 ## Installation
 
 ```
-$ npm install orengi
+$ npm install orenji
 ```
 
 ## Community

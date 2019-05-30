@@ -1,6 +1,6 @@
 {
   "name": "orenji",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Orenji Web App Framework",
   "main": "lib/orenji.js",
   "scripts": {

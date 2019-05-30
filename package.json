@@ -24,5 +24,9 @@
       "**/test/**/*.js"
     ],
     "testEnvironment": "node"
+  },
+  "dependencies": {
+    "cache-content-type": "^1.0.1",
+    "statuses": "^1.5.0"
   }
 }
